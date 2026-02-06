@@ -1,0 +1,3 @@
+DECLARACIÓN JURADA DE AUTORÍA
+"Yo, Daniel Alejandro Andrade Grau, identificado con el documento de identidad 17.051.934-5, declaro bajo fe de juramento que soy el creador intelectual de todos los conceptos, nombres, estructuras y códigos contenidos en este dossier. Este documento constituye mi 'Libro Blanco' original y la base técnica para el desarrollo del Ecosistema Quantum-Valor."
+FIRMA DIGITAL DEL AUTOR: 731f1b5471e80e1e9fa64c6ade89240fa42e7ad63377b0b7df486636be9daa32 (El hash SHA-256 de este documento actúa como firma electrónica inmutable)

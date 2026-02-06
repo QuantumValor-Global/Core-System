@@ -1,0 +1,36 @@
+name: Deploy Core System
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run tests for Solana contracts
+        run: |
+          cd blockchain-core/solana-vlt
+          cargo test
+      - name: Run tests for Ethereum contracts
+        run: |
+          cd blockchain-core/eth-impact
+          npm test
+      - name: Run AI Guardian tests
+        run: |
+          cd ai-guardian
+          python -m pytest
+
+  security:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Audit Rust dependencies
+        run: cargo audit
+      - name: Check Solidity contracts
+        run: |
+          cd blockchain-core/eth-impact
+          npm run audit

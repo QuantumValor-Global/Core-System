@@ -1,24 +1,88 @@
-# Core-System
-El Ecosistema Quantum-Valor es una arquitectura financiera multipolar diseñada para la transición hacia una economía basada en energía y datos. Utiliza el valor intrínseco de las reservas de Litio (PVC) y la energía solar para respaldar activos digitales de alta velocidad (VLT/SBC) y una reserva inmutable en Bitcoin (BTC).
+# 🌐 Quantum-Valor: Core-System
 
-# 🌐 Quantum-Valor Ecosystem: The Future of Sovereign Wealth
+## El Manifiesto y Visión de INTO3
 
-**Quantum-Valor** is a hyper-scalable financial ecosystem that bridges the gap between physical assets (Lithium/Energy) and digital scarcity (Bitcoin).
+El Ecosistema Quantum-Valor es una arquitectura financiera multipolar diseñada para la transición hacia una economía basada en energía renovable y datos. Integra el valor intrínseco de las reservas de Litio del Atacama, energía solar y tecnología blockchain para crear un sistema financiero soberano, resiliente y autosustentable.
 
-Become a member
-## 🚀 Key Features
+### 🚀 Características Clave
 
-**PVC Backing:** Real-world asset (RWA) collateralization of Lithium reserves.
-- **GNLL (Gemini Neural Liquidity Layer):** AI-driven cross-border high-speed fiat-to-BTC transfers.
-- **POAI Protocol:** Post-quantum security for long-term asset preservation.
-- **SBC (Sovereign Bitcoin Certificate):** Instant, energy-backed BTC liquidity on Solana.
-## 🛠 Tech Stack
+- **PVC (Physical Valued Certificates):** Certificados respaldados por reservas reales de Litio
+- **VLT/SBC:** Tokens de valor y Certificados de Bitcoin respaldados por energía
+- **GNLL:** Sistema de arbitraje e inteligencia artificial para liquidez óptima
+- **MÍA:** Protocolos autónomos de defensa y recuperación del ecosistema
+- **POAI:** Criptografía resistente a computación cuántica
+- **Atacama IoT:** Red de sensores para validación de activos físicos
+- **Lunar Link:** Backup satelital para resiliencia orbital
 
-**Blockchain:** Solana (L1 Speed), Ethereum (VC/Social Liquidity).
-- **Languages:** Rust (Contracts), Solidity (Social), Python (AI/GNLL).
-- **Security:** Lattice-based Cryptography & Orbital Data Backup.
-## ⚖️ Intellectual Property
+### 📂 Estructura del Proyecto
 
-This project is protected under the **Business Source License 1.1 (BUSL-1.1)**.
+```
+/
+├── 📄 README.md                 # El Manifiesto y visión de INTO3
+├── 📄 WHITE_PAPER.md            # Documento técnico fundacional
+├── 📁 .github/workflows/        # Automatización de despliegue (CI/CD)
+├── 📁 blockchain-core/          # El motor financiero (Smart Contracts)
+│   ├── 📁 solana-vlt/           # Contratos VLT y SBC en Rust
+│   └── 📁 eth-impact/           # Patocoin y contratos de regeneración
+├── 📁 ai-guardian/              # El cerebro del sistema (MÍA & GNLL)
+│   ├── 📁 gnll-liquidity/       # Algoritmos de arbitraje y trading
+│   └── 📁 mia-defense/          # Ciberseguridad y protocolos de emergencia
+├── 📁 infrastructure/           # Conexión con lo físico y orbital
+│   ├── 📁 atacama-iot/          # Sensores de Litio y Energía
+│   └── 📁 lunar-link/           # Protocolos de comunicación satelital
+├── 📁 dashboard-os/             # Interfaz de comando (INTO3-OS)
+└── 📁 legal-ip/                 # Documentación de autoría y licencias
+```
 
-Unauthorised commercial use is strictly prohibited. All rights reserved by Daniel Alejandro Andrade Grau/DALabs.
+### 🛠 Tech Stack
+
+- **Blockchain:** Solana (velocidad), Ethereum (liquidez social)
+- **Lenguajes:** Rust (Solana), Solidity (Ethereum), Python (IA)
+- **Criptografía:** CRYSTALS-Kyber (post-cuántica)
+- **Infraestructura:** IoT + Satélites
+
+### 🔐 Seguridad
+
+- Criptografía resistente a computación cuántica
+- Validadores distribuidos coordinados por MÍA
+- Backup satelital independiente
+- Auditoría continua en tiempo real
+
+### 📜 Licencia
+
+Este proyecto está protegido bajo la **Business Source License 1.1 (BUSL-1.1)**.
+
+✗ Uso comercial restringido sin autorización
+✓ Desarrollo privado y auditoría de seguridad permitidos
+
+**Derechos Reservados:** Daniel Alejandro Andrade Grau / DALabs
+
+Ver [legal-ip/DECLARATION.md](legal-ip/DECLARATION.md) para detalles completos.
+
+### 🚀 Inicio Rápido
+
+```bash
+# Configuración automática
+bash setup.sh
+
+# O manualmente:
+cd blockchain-core/solana-vlt && cargo build --release
+cd ../eth-impact && npm install && npm test
+cd ../../ai-guardian && python -m pytest
+```
+
+### 📚 Documentación
+
+- [WHITE_PAPER.md](WHITE_PAPER.md) - Arquitectura técnica completa
+- [blockchain-core/README.md](blockchain-core/README.md) - Guía de Smart Contracts
+- [ai-guardian/README.md](ai-guardian/README.md) - Sistemas de IA
+- [infrastructure/README.md](infrastructure/README.md) - Componentes físicos y orbitales
+- [dashboard-os/README.md](dashboard-os/README.md) - Sistema operativo
+
+### 🤝 Contribuciones
+
+Las contribuciones y auditorías de seguridad son bienvenidas bajo la licencia BUSL-1.1.
+
+---
+
+**Febrero 2026** | Quantum-Valor Global Initiative
