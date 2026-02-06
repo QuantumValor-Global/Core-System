@@ -1,0 +1,19 @@
+[program]
+name = "vlt_emission"
+version = "0.1.0"
+description = "VLT emission program for Solana"
+authors = ["QuantumValor-Global"]
+license = "MIT"
+repository = "https://github.com/QuantumValor-Global/Core-System"
+ 
+[build]
+program = "src/lib.rs"
+ 
+[features]
+default = ["client"]
+ 
+[client]
+# Specify the client configuration here if needed
+ 
+[accounts]
+# Define the accounts used by the program here if needed

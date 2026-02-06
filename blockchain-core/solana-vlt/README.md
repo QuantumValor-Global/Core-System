@@ -14,7 +14,8 @@ Implementación de contratos inteligentes en Rust/Solana para tokenización de L
 - **Complejidad:** Baja-Media  
 - **Mejor para:** MVP rápido, seguridad MÍA-first
 
-**Ver [COMPARISON.md](COMPARISON.md) para análisis detallado de ambas.**
+**Ver [COMPARISON.md](COMPARISON.md) para análisis detallado de V1 vs V2.**  
+**Ver [QUANTUM-VLT-SOVEREIGN-VARIANTS.md](QUANTUM-VLT-SOVEREIGN-VARIANTS.md) para arquitecturas alternativas de INTO el 3.**
 
 ## 🏗️ Estructura
 

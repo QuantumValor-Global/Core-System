@@ -1,0 +1,35 @@
+{
+  "name": "solana-vlt-client",
+  "version": "1.0.0",
+  "description": "Client for interacting with the VLT system on the Solana blockchain.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "deploy": "ts-node scripts/deploy.ts",
+    "setup": "ts-node scripts/setup.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QuantumValor-Global/Core-System.git"
+  },
+  "keywords": [
+    "solana",
+    "vlt",
+    "blockchain",
+    "typescript"
+  ],
+  "author": "QuantumValor-Global",
+  "license": "MIT",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.24.2",
+    "@solana/web3.js": "^1.31.0",
+    "@solana/spl-token": "^0.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "ts-node": "^10.4.0",
+    "jest": "^27.0.6",
+    "@types/jest": "^27.0.2"
+  }
+}
