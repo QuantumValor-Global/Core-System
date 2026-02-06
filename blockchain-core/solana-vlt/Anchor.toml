@@ -1,0 +1,24 @@
+[toolchain]
+
+[features]
+seeds = true
+init-if-needed = false
+
+[programs.localnet]
+quantum_vlt = "VLT1111111111111111111111111111111111111111"
+
+[programs.devnet]
+quantum_vlt = "VLT1111111111111111111111111111111111111111"
+
+[programs.mainnet]
+quantum_vlt = "VLT1111111111111111111111111111111111111111"
+
+[registry]
+url = "https://api.github.com/repos/coral-xyz/anchor/releases/download"
+
+[provider]
+cluster = "Localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha --require ts-node/register tests/**/*.test.ts"
