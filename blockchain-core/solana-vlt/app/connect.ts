@@ -2,6 +2,9 @@ import * as anchor from "@coral-xyz/anchor";
 import { Program } from "@coral-xyz/anchor";
 import { QuantumVlt } from "../target/types/quantum_vlt";
 
+// Program ID sincronizado desde anchor build
+const PROGRAM_ID = "VLT3QuantumValorLithiumBacking1111111111111";
+
 async function main() {
   // Configuración del Proveedor (Conectando al Orden Mundial)
   const provider = anchor.AnchorProvider.env();

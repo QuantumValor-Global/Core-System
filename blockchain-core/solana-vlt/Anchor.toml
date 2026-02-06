@@ -5,13 +5,13 @@ seeds = true
 init-if-needed = false
 
 [programs.localnet]
-quantum_vlt = "VLT1111111111111111111111111111111111111111"
+quantum_vlt = "VLT3QuantumValorLithiumBacking1111111111111"
 
 [programs.devnet]
-quantum_vlt = "VLT1111111111111111111111111111111111111111"
+quantum_vlt = "VLT3QuantumValorLithiumBacking1111111111111"
 
 [programs.mainnet]
-quantum_vlt = "VLT1111111111111111111111111111111111111111"
+quantum_vlt = "VLT3QuantumValorLithiumBacking1111111111111"
 
 [registry]
 url = "https://api.github.com/repos/coral-xyz/anchor/releases/download"

@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use anchor_spl::token::{self, Mint, Token, TokenAccount, Transfer, Burn, MintTo};
 use solana_program::program_pack::Pack;
 
-declare_id!("VLT1111111111111111111111111111111111111111");
+declare_id!("VLT3QuantumValorLithiumBacking1111111111111");
 
 #[program]
 pub mod vlt_emission {

@@ -1,5 +1,7 @@
 # Solana VLT - Valor-Litio Token
 
+**Status:** 🟢 Compilación Completada | Program ID Sincronizado | Listo para Devnet
+
 ## 📋 Descripción
 
 Implementación de contratos inteligentes en Rust/Solana para tokenización de Litio con dos enfoques:
