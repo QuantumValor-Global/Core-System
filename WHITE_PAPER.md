@@ -44,7 +44,7 @@ Energía Renovable ──→ Respalda ──→ Activos Digitales
 - Predicción de fluctuaciones de mercado
 - Optimización de rutas de liquidación
 
-**MÍA (Machine Intelligence Autonomy)**
+**MIA (Machine Intelligence Autonomy)**
 - Monitoreo de integridad del sistema
 - Protocolos de emergencia y rollback
 - Detección de anomalías y ataques
