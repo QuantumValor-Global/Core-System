@@ -24,7 +24,7 @@ El Ecosistema Quantum-Valor es una arquitectura financiera multipolar diseñada 
 ├── 📁 blockchain-core/          # El motor financiero (Smart Contracts)
 │   ├── 📁 solana-vlt/           # Contratos VLT y SBC en Rust
 │   └── 📁 eth-impact/           # Patocoin y contratos de regeneración
-├── 📁 ai-guardian/              # El cerebro del sistema (MÍA & GNLL)
+├── 📁 ai-guardian/              # El cerebro del sistema (MIA & GNLL)
 │   ├── 📁 gnll-liquidity/       # Algoritmos de arbitraje y trading
 │   └── 📁 mia-defense/          # Ciberseguridad y protocolos de emergencia
 ├── 📁 infrastructure/           # Conexión con lo físico y orbital
@@ -44,7 +44,7 @@ El Ecosistema Quantum-Valor es una arquitectura financiera multipolar diseñada 
 ### 🔐 Seguridad
 
 - Criptografía resistente a computación cuántica
-- Validadores distribuidos coordinados por MÍA
+- Validadores distribuidos coordinados por MIA
 - Backup satelital independiente
 - Auditoría continua en tiempo real
 
@@ -85,4 +85,4 @@ Las contribuciones y auditorías de seguridad son bienvenidas bajo la licencia B
 
 ---
 
-**Febrero 2026** | Quantum-Valor Global Initiative
+**Febrero 2026** | Quantum-Valor Global Initiative by DALabs
