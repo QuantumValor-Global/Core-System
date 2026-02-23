@@ -9,7 +9,7 @@ El Ecosistema Quantum-Valor es una arquitectura financiera multipolar diseñada 
 - **PVC (Physical Valued Certificates):** Certificados respaldados por reservas reales de Litio
 - **VLT/SBC:** Tokens de valor y Certificados de Bitcoin respaldados por energía
 - **GNLL:** Sistema de arbitraje e inteligencia artificial para liquidez óptima
-- **MÍA:** Protocolos autónomos de defensa y recuperación del ecosistema
+- **MIA:** Protocolos autónomos de defensa y recuperación del ecosistema
 - **POAI:** Criptografía resistente a computación cuántica
 - **Atacama IoT:** Red de sensores para validación de activos físicos
 - **Lunar Link:** Backup satelital para resiliencia orbital
