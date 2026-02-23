@@ -1,0 +1,26 @@
+[package]
+name = "vlt-emission"
+version = "0.1.0"
+description = "VLT Emission Contract - Lithium-backed token on Solana"
+edition = "2021"
+authors = ["Daniel Alejandro Andrade Grau <contact@dalabs.io>"]
+license = "BUSL-1.1"
+repository = "https://github.com/QuantumValor-Global/Core-System"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+
+[dependencies]
+anchor-lang = "0.28"
+anchor-spl = "0.28"
+solana-program = "1.17"
+spl-token = "3.5"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+
+[features]
+default = []
+cpi = ["anchor-lang/cpi"]
