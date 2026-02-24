@@ -1,8 +1,12 @@
 [package]
-name = "qv-rwa-vault"
-version = "3.0.0"
+name = "solana-vlt"
+version = "1.2.5"
 edition = "2021"
+description = "QVE Quantum Vault - Solana Liquidity Engine"
+
+[lib]
+crate-type = ["cdylib", "lib"]
 
 [dependencies]
-anchor-lang = "0.28.0"
-solana-program = "1.16.0"
+solana-program = "1.18"
+anchor-lang = "0.29.0"
