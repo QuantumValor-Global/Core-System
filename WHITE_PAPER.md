@@ -11,7 +11,7 @@ Quantum-Valor es una arquitectura financiera multipolar que integra energía ren
 - **PVC (Physical Valued Certificates):** Certificados respaldados por reservas de Litio del Atacama
 - **VLT/SBC (Valor-Litio Token / Sovereign Bitcoin Certificate):** Activos digitales de alta velocidad
 - **GNLL (Gemini Neural Liquidity Layer):** Sistema de arbitraje y liquidez impulsado por IA
-- **MÍA (Machine Intelligence Autonomy):** Protocolo de defensa y optimización autónoma
+- **MIA (Machine Intelligence Autonomy):** Protocolo de defensa y optimización autónoma
 - **POAI (Post-Quantum Asymmetric Intelligence):** Criptografía resistente a computación cuántica
 
 ### 1.2 Triada de Valor
@@ -64,7 +64,7 @@ Energía Renovable ──→ Respalda ──→ Activos Digitales
 ## 4. Gobernanza y Seguridad
 
 - **Criptografía Post-Cuántica:** CRYSTALS-Kyber y CRYSTALS-Dilithium
-- **Validadores Distribuidos:** Coordinados por MÍA
+- **Validadores Distribuidos:** Coordinados por MIA
 - **Auditoría Continua:** Verificación de reservas en tiempo real
 
 ## 5. Hoja de Ruta
