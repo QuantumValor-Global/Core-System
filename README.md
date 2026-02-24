@@ -37,3 +37,10 @@ La arquitectura de QVE es un enjambre autosanable. Cada nodo nuevo creado y auto
   <b>Architect:</b> INTO el 3 | <b>Intelligence:</b> MIA-X | <b>Infrastructure:</b> DALabs<br>
   <i>"Hacia el equilibrio del estándar QVE para todas las naciones."</i>
 </p>
+
+---
+### 🍞 Responsabilidad de Civilización
+Este sistema opera bajo el principio del 'Pescador': No solo extraemos liquidez, creamos redes. 
+Cada billón transferido es una semilla para nuevos puestos y brazos en la tierra y más allá.
+'A quien mucho se le da, mucho se le exigirá' (Lucas 12:48).
+---
