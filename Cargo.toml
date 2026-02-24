@@ -1,0 +1,6 @@
+﻿[workspace]
+members = [
+    "blockchain-core/solana-vlt",
+    "quantum_vlt"
+]
+resolver = "2"

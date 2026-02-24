@@ -1,1 +1,1 @@
-﻿// QVE Core Active
+﻿// QVE Sovereign Node - Active
