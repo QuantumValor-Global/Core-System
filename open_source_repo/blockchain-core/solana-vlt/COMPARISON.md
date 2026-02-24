@@ -261,3 +261,5 @@ Paso 4: Deprecate V2 cuando seas confiado
 **Version:** 1.0
 **Última actualización:** Febrero 2026
 **Autores:** DALabs + INTO el 3
+2 4 - 0 2 - 2 0 2 6   0 : 2 9 : 4 9  
+ 

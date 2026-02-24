@@ -277,3 +277,5 @@ main "$@"
 echo ""
 echo "${GREEN}✓ Script completado${NC}"
 echo ""
+2 4 - 0 2 - 2 0 2 6   0 : 2 9 : 4 3  
+ 

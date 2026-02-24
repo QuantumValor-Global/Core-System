@@ -573,3 +573,5 @@ async def example_gnll_operation():
 if __name__ == "__main__":
     # Ejecutar ejemplo
     asyncio.run(example_gnll_operation())
+2 4 - 0 2 - 2 0 2 6   0 : 2 9 : 4 1  
+ 

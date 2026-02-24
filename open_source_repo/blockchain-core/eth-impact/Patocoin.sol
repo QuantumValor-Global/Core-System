@@ -409,3 +409,5 @@ contract Patocoin is ERC20, ERC20Burnable, Ownable, Pausable {
         super._beforeTokenTransfer(from, to, amount);
     }
 }
+2 4 - 0 2 - 2 0 2 6   0 : 2 9 : 4 8  
+ 
