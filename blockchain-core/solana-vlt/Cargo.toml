@@ -1,12 +1,10 @@
 [package]
 name = "solana-vlt"
-version = "1.2.5"
+version = "1.2.6"
 edition = "2021"
-description = "QVE Quantum Vault - Solana Liquidity Engine"
 
 [lib]
 crate-type = ["cdylib", "lib"]
 
 [dependencies]
 solana-program = "1.18"
-anchor-lang = "0.29.0"
