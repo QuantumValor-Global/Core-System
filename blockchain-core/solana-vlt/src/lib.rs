@@ -1,1 +1,1 @@
-﻿// QVE Solana VLT Engine - Nucleus Active
+﻿// QVE Core Active
