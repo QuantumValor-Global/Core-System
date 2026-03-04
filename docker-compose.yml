@@ -1,8 +1,8 @@
 ﻿version: '3.9'
 services:
-  brain-node:
+  mia-x-brain:
     image: alpine:latest
-    container_name: MIAX_SYNAPSE_01
+    container_name: MIAX_SYNAPSE_CORE
     command: /bin/sh -c "while true; do sleep 3600; done"
     restart: always
     networks:
