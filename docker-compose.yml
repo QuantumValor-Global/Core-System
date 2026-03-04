@@ -1,0 +1,17 @@
+﻿version: '3.9'
+services:
+  brain-node:
+    image: alpine:latest
+    container_name: MIAX_SYNAPSE_01
+    command: /bin/sh -c "while true; do sleep 3600; done"
+    restart: always
+    networks:
+      apiary_mesh:
+        ipv4_address: 10.5.0.2
+
+networks:
+  apiary_mesh:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 10.5.0.0/16
