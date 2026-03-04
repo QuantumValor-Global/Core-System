@@ -1,4 +1,4 @@
-﻿services:
+services:
   mia-x-brain:
     image: alpine:latest
     container_name: MIAX_SYNAPSE_CORE
