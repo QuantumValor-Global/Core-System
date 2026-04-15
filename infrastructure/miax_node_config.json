@@ -1,0 +1,6 @@
+{
+    "node_type": "Neural_Sovereign",
+    "security": "Level_7_Military",
+    "satellites": ["Terafab-D3", "Venus-Monitor", "SpaceX-Link"],
+    "auto_heal": true
+}
